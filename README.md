@@ -29,8 +29,6 @@ Most days I’m hopping between Python, Java and JavaScript/TypeScript, trying t
 
 ## 🧰 Tech toolbox
 
-## 🧰 Tech toolbox
-
 <table>
   <tr>
     <td align="center">
