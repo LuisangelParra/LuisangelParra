@@ -138,5 +138,5 @@ descomenta este bloque y asegúrate de que la ruta del archivo es correcta.
 
 ## 📫 Let’s connect
 
-- 💼 LinkedIn: [linkedin.com/in/tu-linkedin-aqui](https://www.linkedin.com/in/luisangel-parra)  
+- 💼 LinkedIn: [linkedin.com/in/luisangel-parra](https://www.linkedin.com/in/luisangel-parra)  
 - ✉️ Email: **lfaria@uninorte.edu.co**
