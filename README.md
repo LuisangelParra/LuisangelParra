@@ -125,16 +125,10 @@ Most days I’m hopping between Python, Java and JavaScript/TypeScript, trying t
 
 ## 🐍 Contributions snake
 
-*Snake animation coming soon once I finish setting up the GitHub Action 😅*
-
-<!--
-Cuando tengas configurada la GitHub Action que genera la snake,
-descomenta este bloque y asegúrate de que la ruta del archivo es correcta.
-
 <p align="center">
-  <img src="https://github.com/LuisangelParra/LuisangelParra/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/LuisangelParra/LuisangelParra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
--->
+
 
 ## 📫 Let’s connect
 
