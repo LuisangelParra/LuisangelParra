@@ -133,4 +133,4 @@ Most days I’m hopping between Python, Java and JavaScript/TypeScript, trying t
 ## 📫 Let’s connect
 
 - 💼 LinkedIn: [linkedin.com/in/luisangel-parra](https://www.linkedin.com/in/luisangel-parra)  
-- ✉️ Email: **lfaria@uninorte.edu.co**
+- ✉️ Email: **hello@luisangelparra.com**
