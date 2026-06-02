@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/LuisangelParra">
-    <img src="https://komarev.com/ghpvc/?username=LuisangelParra&style=flat-square&color=22c55e" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=LuisangelParra&style=for-the-badge&color=6366F1" alt="profile views" />
   </a>
   <a href="https://github.com/LuisangelParra?tab=followers">
-    <img src="https://img.shields.io/github/followers/LuisangelParra?label=Followers&style=flat-square&color=22c55e" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/LuisangelParra?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
   </a>
   <a href="https://www.linkedin.com/in/luisangel-parra">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
@@ -16,121 +16,60 @@
   <i>“Turning ideas into code, and code into useful things.”</i>
 </p>
 
+---
+
 ## 👋 About me
 
-I’m Luisangel, a Venezuelan-Colombian software engineer in training 🇻🇪🇨🇴 currently splitting my time between Colombia and Germany 🇩🇪 and enjoying the chaos of studying, coding and learning new languages at the same time. I like turning abstract ideas into real, working software, whether that means designing backend systems, playing with machine learning models or wiring everything together with Docker and solid Git workflows ⚙️  
+I’m Luisangel, a Venezuelan-Colombian software engineer in training 🇻🇪🇨🇴 currently splitting my time between **Colombia** and **Germany** 🇩🇪. I enjoy the chaos of studying, coding, and learning new languages all at once. 
 
-Most days I’m hopping between Python, Java and JavaScript/TypeScript, trying to keep code clean, readable and as automated as possible. I enjoy working in international teams, explaining technical stuff in simple words, and constantly learning. Right now that includes pushing my German past B1 and figuring out how to build software that is not only clever, but actually useful for people 💡  
+My passion lies in turning abstract ideas into real, working software—whether that means designing resilient backend systems, experimenting with machine learning models, or wiring everything together with Docker and solid Git workflows. ⚙️
 
-- 🌍 Based between **Colombia** and **Germany**
-- 🎓 Studying **Systems Engineering (BSc)** and **Global Software Development (MSc)**
-- 💻 Enjoy **Backend · ML · DevOps · Web & Mobile**
-- 🗣️ Spanish (native), English (professional), German (B1)
+Most days I’m hopping between **Python, Java, and TypeScript**, trying to keep code clean, readable, and highly automated. I love working in international teams, translating complex technical concepts into simple words, and constantly leveling up. Right now, that includes pushing my German past B1 and figuring out how to build software that isn't just clever, but genuinely useful. 💡
 
-## 🧰 Tech toolbox
+- 🎓 **Studying:** Systems Engineering (BSc) & Global Software Development (MSc)
+- 💻 **Interests:** Backend · Machine Learning · DevOps · Web & Mobile
+- 🗣️ **Languages:** Spanish (Native), English (Professional), German (B1)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" /><br/>
-      <sub>Java</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br/>
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /><br/>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" /><br/>
-      <sub>Express</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
-      <sub>Spring Boot</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx" /><br/>
-      <sub>Nginx</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br/>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /><br/>
-      <sub>PostgreSQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" /><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /><br/>
-      <sub>Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" /><br/>
-      <sub>React</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /><br/>
-      <sub>Next.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro" /><br/>
-      <sub>Astro</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" /><br/>
-      <sub>TailwindCSS</sub>
-    </td>
-  </tr>
-</table>
+---
 
+## 🧰 Tech Toolbox
 
-## 📊 GitHub stats
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,express,spring,nginx,mysql,postgres,docker,git,react,nextjs,astro,tailwind&perline=8" alt="Tech Stack"/>
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuisangelParra&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisangelParra&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisangelParra&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+---
 
-## 🐍 Contributions snake
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisangelParra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisangelParra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisangelParra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github.com/LuisangelParra/LuisangelParra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
 
 ## 📫 Let’s connect
 
-- 💼 LinkedIn: [linkedin.com/in/luisangel-parra](https://www.linkedin.com/in/luisangel-parra)  
-- ✉️ Email: **hello@luisangelparra.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/luisangel-parra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hello@luisangelparra.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
