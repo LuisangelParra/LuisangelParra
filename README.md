@@ -68,6 +68,10 @@ Tengo una misión clara: **desbloquear el poder de los datos para crear sistemas
   </picture>
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
 ---
 
 ## `~/connect`
