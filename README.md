@@ -1,16 +1,7 @@
-<!-- ============================================================ -->
-<!--   LUISANGEL PARRA · GitHub Profile README · v3               -->
-<!--   Theme: terminal / indigo + cyan                            -->
-<!--   NOTE: stat dashboard + 3D graph are static SVGs generated  -->
-<!--   by the workflows in .github/workflows/ (setup steps inside).-->
-<!-- ============================================================ -->
-
-<!-- ─────────────────────────  HERO  ───────────────────────── -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=760&height=120&lines=%3E+booting+system...;Hi%2C+I'm+Luisangel+%F0%9F%91%8B;Software+Engineer+in+training;Backend+%C2%B7+Machine+Learning+%C2%B7+DevOps;Venezuela+%E2%86%92+Colombia+%E2%86%92+Germany" alt="Typing banner" />
 </p>
 
-<!-- ────────────────────────  BADGES  ──────────────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisangelParra&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/LuisangelParra?style=for-the-badge&logo=github&color=22D3EE&labelColor=0D1117" alt="Followers" />
@@ -69,36 +60,13 @@ Tengo una misión clara: **desbloquear el poder de los datos para crear sistemas
   <img src="https://streak-stats.demolab.com?user=LuisangelParra&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&dayLabels=9CA3AF" alt="Contribution streak" />
 </p>
 
-<!-- =================================================================
-     UNIFIED METRICS DASHBOARD  (languages · habits · achievements ·
-     contribution calendar). This is the reliable replacement for the
-     github-readme-stats cards that were returning 502.
-
-     HOW TO TURN IT ON:
-       1. Add .github/workflows/metrics.yml (provided).
-       2. Create a classic PAT and save it as repo secret METRICS_TOKEN.
-       3. Run the workflow once (Actions tab → Run workflow).
-       4. It commits a static `metrics.svg` to this repo.
-       5. Delete the comment markers around the block below.
-================================================================= -->
-<!--
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics dashboard" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LuisangelParra/LuisangelParra/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisangelParra/LuisangelParra/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/LuisangelParra/LuisangelParra/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
--->
-
-<!-- =================================================================
-     3D CONTRIBUTION GRAPH
-       1. Add .github/workflows/profile-3d.yml (provided).
-       2. Run it once. It commits SVGs to `profile-3d-contrib/`.
-       3. Confirm the exact committed path + your default branch,
-          then update the src below and uncomment.
-================================================================= -->
-<!--
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
-</p>
--->
 
 ---
 
@@ -113,7 +81,6 @@ Tengo una misión clara: **desbloquear el poder de los datos para crear sistemas
   </a>
 </p>
 
-<!-- ────────────────────────  FOOTER  ──────────────────────── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=70&section=footer&text=Built+with+%E2%9D%A4%EF%B8%8F+across+continents&fontSize=16&fontAlignY=58&fontColor=ffffff" alt="Footer" />
 </p>
